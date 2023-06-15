@@ -1,0 +1,11 @@
+D:\Phát triển ứng dụng - DeskTop\OnTap\OnTap\bin\Debug\OnTap.exe.config
+D:\Phát triển ứng dụng - DeskTop\OnTap\OnTap\bin\Debug\OnTap.exe
+D:\Phát triển ứng dụng - DeskTop\OnTap\OnTap\bin\Debug\OnTap.pdb
+D:\Phát triển ứng dụng - DeskTop\OnTap\OnTap\obj\Debug\OnTap.csprojAssemblyReference.cache
+D:\Phát triển ứng dụng - DeskTop\OnTap\OnTap\obj\Debug\OnTap.Form1.resources
+D:\Phát triển ứng dụng - DeskTop\OnTap\OnTap\obj\Debug\OnTap.Properties.Resources.resources
+D:\Phát triển ứng dụng - DeskTop\OnTap\OnTap\obj\Debug\OnTap.csproj.GenerateResource.cache
+D:\Phát triển ứng dụng - DeskTop\OnTap\OnTap\obj\Debug\OnTap.csproj.CoreCompileInputs.cache
+D:\Phát triển ứng dụng - DeskTop\OnTap\OnTap\obj\Debug\OnTap.exe
+D:\Phát triển ứng dụng - DeskTop\OnTap\OnTap\obj\Debug\OnTap.pdb
+D:\Phát triển ứng dụng - DeskTop\OnTap\OnTap\obj\Debug\OnTap.frmLoaiHangHoa.resources
